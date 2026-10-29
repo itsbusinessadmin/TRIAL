@@ -1,0 +1,30 @@
+# TIER 2 - Preinstalled bloat apps (contain ads or are rarely used)
+# Safe to remove. Use Google/Play Store alternatives instead.
+com.mi.globalbrowser                # Mi Browser (heavy ads)  -> use Chrome
+com.miui.videoplayer                # Mi Video (ads)          -> use VLC
+com.miui.player                     # Mi Music (ads)          -> use any player
+com.xiaomi.midrop                   # ShareMe (ads)           -> use Quick Share
+com.xiaomi.glgm                     # Xiaomi Games
+com.miui.cleanmaster                # Cleaner (ads)
+com.miui.fm                         # FM Radio
+com.miui.compass                    # Compass
+com.facebook.katana                 # Facebook (preinstalled)
+com.netflix.mediaclient             # Netflix (preinstalled)
+com.netflix.partner.activation      # Netflix partner activation
+com.amazon.mShop.android.shopping   # Amazon Shopping
+com.amazon.appmanager               # Amazon App Manager
+com.linkedin.android                # LinkedIn
+com.zhiliaoapp.musically            # TikTok
+com.booking                         # Booking.com
+com.block.juggle                    # Block Puzzle game
+com.sukhavati.gotoheaven.blast      # Preloaded game
+com.logame.eliminateintruder3d      # Preloaded game
+com.google.android.apps.youtube.music # YouTube Music
+com.google.android.videos           # Google TV / Play Movies
+com.google.android.apps.tachyon     # Google Meet/Duo
+com.google.android.apps.subscriptions.red # Google One
+com.google.android.apps.podcasts    # Google Podcasts
+com.miui.translation.kingsoft       # Translation engine
+com.miui.translation.youdao         # Translation engine
+com.miui.translation.xmcloud        # Translation engine
+com.miui.translationservice         # Translation service

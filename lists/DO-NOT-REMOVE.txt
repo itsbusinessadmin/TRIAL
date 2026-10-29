@@ -1,0 +1,24 @@
+# NEVER remove these on POCO X3 Pro - removing them can cause bootloops,
+# a broken lock screen, or no way to install apps. The scripts refuse to touch them.
+com.miui.securitycenter             # Security app (core MIUI component)
+com.miui.securitycore
+com.miui.home                       # System launcher
+com.mi.android.globallauncher       # POCO Launcher
+com.android.systemui
+com.android.settings
+com.miui.global.packageinstaller    # Needed to install apps
+com.google.android.packageinstaller
+com.android.vending                 # Play Store
+com.google.android.gms              # Google Play Services
+com.android.phone
+com.android.providers.telephony
+com.xiaomi.finddevice               # Find Device (removing can lock you out)
+com.miui.guardprovider
+com.android.thememanager            # Theme Manager (can break UI on MIUI)
+com.miui.system
+com.miui.rom
+com.xiaomi.xmsf                     # Xiaomi service framework
+com.miui.powerkeeper                # Battery management
+com.qualcomm.qti.devicestatisticsservice
+com.android.camera                  # Camera
+com.miui.gallery                    # Gallery (camera depends on it)

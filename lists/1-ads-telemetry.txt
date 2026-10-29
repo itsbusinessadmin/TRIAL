@@ -1,0 +1,17 @@
+# TIER 1 - Ad & tracking services (the main source of MIUI/HyperOS ads)
+# Safe to remove on POCO X3 Pro (vayu). One package per line; text after # is ignored.
+com.miui.msa.global                 # MSA - MIUI System Ads (the ad engine itself)
+com.miui.analytics                  # Xiaomi analytics / telemetry
+com.miui.daemon                     # MIUI usage-data collector
+com.xiaomi.mipicks                  # GetApps store (pushes ad notifications)
+com.miui.hybrid                     # Quick Apps (ad-driven mini apps)
+com.miui.hybrid.accessory           # Quick Apps helper
+com.mi.globalminusscreen            # App Vault (left-swipe feed with ads)
+com.miui.android.fashiongallery     # Wallpaper Carousel (lock-screen ads)
+com.miui.yellowpage                 # Yellow Pages / caller business ads
+com.facebook.appmanager             # Facebook App Manager (preinstalled tracker)
+com.facebook.services               # Facebook Services
+com.facebook.system                 # Facebook App Installer
+com.miui.bugreport                  # Bug report uploader
+com.miui.miservice                  # Services & Feedback
+com.google.android.feedback         # Google feedback uploader

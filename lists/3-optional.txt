@@ -1,0 +1,18 @@
+# TIER 3 - OPTIONAL. Only remove if you DON'T use these. Not run by default.
+com.miui.weather2                   # Weather (widget on home screen uses it)
+com.miui.notes                      # Notes
+com.mi.android.globalFileexplorer   # File Manager (has ads; install Files by Google first!)
+com.miui.mishare.connectivity       # Mi Share (sharing with other Xiaomi phones)
+com.miui.micloudsync                # Mi Cloud sync
+com.xiaomi.payment                  # Mi Pay
+com.mipay.wallet.in                 # Mi Pay (India)
+com.miui.calculator                 # Calculator
+com.android.soundrecorder           # Sound recorder
+com.miui.screenrecorder             # Screen recorder
+com.xiaomi.scanner                  # Scanner
+com.google.android.apps.docs        # Google Drive
+com.google.android.apps.photos      # Google Photos
+com.google.android.youtube          # YouTube
+com.google.android.apps.maps        # Google Maps
+com.google.android.gm               # Gmail
+com.google.android.apps.wellbeing   # Digital Wellbeing
